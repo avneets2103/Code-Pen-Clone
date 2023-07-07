@@ -1,3 +1,20 @@
+This is a clone of the famous Code Pen, a tool every front-end developer uses to test out their HTML, CSS, and JS code on the run.
+It is made with the help of Material UI, and React which are powerful tools for front-end development.
+
+How to run:
+
+`clone` this GitHub repository, 
+
+do `npm install` to install every dependency
+
+then run `npm start` 
+
+and the server runs at localhost where you can use it
+
+Here is a sample video of the functioning:
+https://drive.google.com/file/d/1u7SQUwU7hxQ7F25N6aV-CA_NdoXwEpYs/view?usp=sharing
+
+> This is the react by default ReadMe data:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
